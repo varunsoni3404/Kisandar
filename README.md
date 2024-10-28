@@ -7,8 +7,11 @@ Features
 🛡️ Fraud Detection: Monitors transaction patterns to prevent fraudulent activities.
 📊 Analytics Dashboard: Both farmers and buyers can view relevant statistics and insights.
 🌱 Minimalistic and Intuitive UI: Designed for farmers with visual cues and annotations.
+
 Tech Stack
 Frontend: React, Tailwind CSS
 Backend: Node.js, Express
 Database: MongoDB
 Other: Mongoose for schema definition, RESTful APIs
+
+This project got us 4th rank in the internal hackathon for Smart India Hackathon!
